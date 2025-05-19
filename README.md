@@ -1,7 +1,3 @@
-Certainly! Based on the structure and content of the [Target SQL project README](https://github.com/Ishwariya-Ayyappan/target-sql), here's a professional and informative `README.md` for your [Walmart Sales Analysis Dashboard](https://github.com/Ishwariya-Ayyappan/Walmart-Sales-Analysis-Dashboard) project:
-
----
-
 # 📊 Walmart Sales Analysis Dashboard (Tableau)
 
 This project presents an interactive Tableau dashboard that analyzes Walmart's sales data to uncover key business insights. The dashboard offers a comprehensive view of sales performance across various dimensions, aiding stakeholders in data-driven decision-making.([GitHub][1])
