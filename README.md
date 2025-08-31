@@ -20,7 +20,7 @@ The Tableau dashboard provides insights into:([LinkedIn][2])
 * **Product Performance**: Top-selling products and categories.
 * **Geographical Analysis**: Sales distribution across different regions.
 * **Customer Segmentation**: Insights into customer demographics and purchasing behavior.
-* **Profitability Metrics**: Gross profit margins and cost analysis.([GitHub][3], [GitHub][4], [LinkedIn][2])
+* **Profitability Metrics**: Gross profit margins and cost analysis.
 
 ---
 
